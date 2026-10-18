@@ -1,0 +1,7 @@
+Practical Task 1
+
+1. The concept of partial derivatives and how they differ from ordinary derivatives is that partial derivatives work with multivariable functions, which are functions that have multiple variables. The function depends on the changes of multiple variables within a function. Changes in all variables including direction influence the outcome of the function. For partial derivative to work is to focus on one variable at a time. For function f(x, y), we find the derivative in the direction of x while keeping y constant, and similarly to find the derivative in the direction of y while keeping x constant.  
+
+In a single variable only one variable determines the outcome of the function, we find its derivative by using the sum rule, this implies applying the power rule. Single variable functions take a single variable x and return an output. In a single variable function if x increases, the rate at which the function decreases slows down. Beyond x = -1, the slope gets steeper as x increases showing that for values of x greater than -1, the function’s rate of increase gets faster.
+
+Multivariable functions are expressed as f(x1, x2, x3…xn). 
